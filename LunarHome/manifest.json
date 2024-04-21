@@ -1,0 +1,17 @@
+{
+    "short_name": "Lunar Home",
+    "name": "Lunar Home",
+    "icons": [
+        {
+          "src": "icon/hd_hi.png",
+          "type": "image/png",
+          "sizes": "256x256"
+        }
+      ],
+    "start_url": "home.php",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#251e53"
+  }
+  
